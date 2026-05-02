@@ -1,6 +1,6 @@
 # Campus Notification Dashboard
 
-Next.js + TypeScript + Material UI frontend for Affordmed Campus Hiring Evaluation.
+Next.js + TypeScript + Material UI frontend  
 
 ## Setup
 
